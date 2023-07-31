@@ -1,0 +1,15 @@
+/home/jack/Sources/TimeFrameKata/timeframekata/src/TimeFrameKata/bin/Debug/net7.0/TimeFrameKata
+/home/jack/Sources/TimeFrameKata/timeframekata/src/TimeFrameKata/bin/Debug/net7.0/TimeFrameKata.deps.json
+/home/jack/Sources/TimeFrameKata/timeframekata/src/TimeFrameKata/bin/Debug/net7.0/TimeFrameKata.runtimeconfig.json
+/home/jack/Sources/TimeFrameKata/timeframekata/src/TimeFrameKata/bin/Debug/net7.0/TimeFrameKata.dll
+/home/jack/Sources/TimeFrameKata/timeframekata/src/TimeFrameKata/bin/Debug/net7.0/TimeFrameKata.pdb
+/home/jack/Sources/TimeFrameKata/timeframekata/src/TimeFrameKata/obj/Debug/net7.0/TimeFrameKata.csproj.AssemblyReference.cache
+/home/jack/Sources/TimeFrameKata/timeframekata/src/TimeFrameKata/obj/Debug/net7.0/TimeFrameKata.GeneratedMSBuildEditorConfig.editorconfig
+/home/jack/Sources/TimeFrameKata/timeframekata/src/TimeFrameKata/obj/Debug/net7.0/TimeFrameKata.AssemblyInfoInputs.cache
+/home/jack/Sources/TimeFrameKata/timeframekata/src/TimeFrameKata/obj/Debug/net7.0/TimeFrameKata.AssemblyInfo.cs
+/home/jack/Sources/TimeFrameKata/timeframekata/src/TimeFrameKata/obj/Debug/net7.0/TimeFrameKata.csproj.CoreCompileInputs.cache
+/home/jack/Sources/TimeFrameKata/timeframekata/src/TimeFrameKata/obj/Debug/net7.0/TimeFrameKata.dll
+/home/jack/Sources/TimeFrameKata/timeframekata/src/TimeFrameKata/obj/Debug/net7.0/refint/TimeFrameKata.dll
+/home/jack/Sources/TimeFrameKata/timeframekata/src/TimeFrameKata/obj/Debug/net7.0/TimeFrameKata.pdb
+/home/jack/Sources/TimeFrameKata/timeframekata/src/TimeFrameKata/obj/Debug/net7.0/TimeFrameKata.genruntimeconfig.cache
+/home/jack/Sources/TimeFrameKata/timeframekata/src/TimeFrameKata/obj/Debug/net7.0/ref/TimeFrameKata.dll
