@@ -13,6 +13,13 @@ public class Reservierungen
         
     public void AddReservierung(TimeSlot timeSlot)
     {
+        foreach (var existingTimeslot in reservierungsListe)
+        {
+            if(timeSlot.OverlapsWith(existingTimeslot))
+            {
+                throw new ArgumentException("Die Reservierung kann nicht durchgeführt werden, da es bereits eine Überlappung mit einer bestehenden Reservierung gibt.");
+            }
+        }
         reservierungsListe.Add(timeSlot);
     }
 

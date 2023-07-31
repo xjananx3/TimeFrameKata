@@ -23,7 +23,9 @@ while (true)
     }
 }
 
-foreach (var reservierung in reservierungen.GetReservierungen())
+var alleReservierungen = reservierungen.GetReservierungen();
+
+foreach (var reservierung in alleReservierungen)
 {
     
     Console.WriteLine("Ihre Reservierungen: " +  reservierung.Start + " - " + reservierung.End);

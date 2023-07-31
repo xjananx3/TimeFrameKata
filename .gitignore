@@ -1,0 +1,46 @@
+# .NET build output
+bin/
+obj/
+
+# Visual Studio files
+.vs/
+*.suo
+*.user
+*.vspscc
+*.vssscc
+*_i.c
+*_p.c
+*.ncb
+*.sdf
+*.opensdf
+*.sln.docstates
+*.suo
+*.user
+*.vssscc
+*.vspscc
+*.dotCover
+*.resharper
+_ReSharper.*/
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+*.pdb
+*.dll
+*.exe
+
+# NuGet packages
+packages/
+
+# User-specific files
+*.user
+*.userprefs
+*.suo
+*.sln.docstates
+
+# Miscellaneous
+[Tt]humbs.db
+*.log
+*.cache
+*.npm-debug.log*
+*.json
