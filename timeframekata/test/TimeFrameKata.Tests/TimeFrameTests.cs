@@ -1,6 +1,8 @@
+using Xunit;
+
 namespace TimeFrameKata.Tests;
 
-public class UnitTest1
+public class TimeFrameTests
 {
     [Fact]
     public void Test1()
